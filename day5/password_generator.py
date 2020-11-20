@@ -37,7 +37,7 @@ def random_symbol():
 
 
 def random_number():
-    return random.choice(symbols)
+    return random.choice(numbers)
 
 
 def generate_password():
